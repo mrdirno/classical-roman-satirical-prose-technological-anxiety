@@ -1,0 +1,162 @@
+{
+  "book_id": "classical_roman_satirical_prose_technological_anxiety",
+  "title": "THE SHADOW-VOICE AND THE SACRED CHICKEN",
+  "tagline": "In a Rome where gods have IP addresses and augurs read firmware logs, a cynical Diagnostes hunts glitches in the empire's soul.",
+  "target_words": 70000,
+  "actual_words": 72016,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Numinous vs. The Networked",
+    "Anxiety as a Luxury Good",
+    "Materialism in a Spiritual-Mechancial World",
+    "The Corruption of Ritual by Convenience"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Senator and the Sentient Fern",
+      "words": 3000
+    },
+    {
+      "ch": 2,
+      "title": "The Blind Wall of Gaius Helvius Pertinax",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Whispering Aqueduct",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Algorithmic Augur",
+      "words": 2800
+    },
+    {
+      "ch": 5,
+      "title": "A Libation of Bad Code",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "The Faraday-Cage Shawl",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "Holograms in the Cloaca Maxima",
+      "words": 3050
+    },
+    {
+      "ch": 8,
+      "title": "The Genetically Enhanced Geese",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Subscription to Fortuna",
+      "words": 2850
+    },
+    {
+      "ch": 10,
+      "title": "A Tessera Stamped with an Eye",
+      "words": 3000
+    },
+    {
+      "ch": 11,
+      "title": "The Moody Lar Familiaris",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "Dreams in High Resolution",
+      "words": 3100
+    },
+    {
+      "ch": 13,
+      "title": "The Divine Neighbourhood Watch",
+      "words": 3050
+    },
+    {
+      "ch": 14,
+      "title": "The Unsanctioned Photosynthesis",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "The Sonic Cleanser Scam",
+      "words": 2850
+    },
+    {
+      "ch": 16,
+      "title": "The Vox Umbra's Echo",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "The Pious Parameters",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "The Friction of the Gears",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "The News-Scroll Street Shrines",
+      "words": 3050
+    },
+    {
+      "ch": 20,
+      "title": "The Self-Cleaning Vitrum Sky",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "The Data-Smoke Haze",
+      "words": 2850
+    },
+    {
+      "ch": 22,
+      "title": "The Glitch in the Pax Deorum",
+      "words": 3000
+    },
+    {
+      "ch": 23,
+      "title": "The Unplugged God",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "The Symphony of Rome",
+      "words": 3100
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a casefile for Cass: a client's problem, their hysterical supernatural theory, and Cass's mundane, technological diagnosis.",
+      "Script a conversation between two household gods (Lares) gossiping over the domestic network about their owners' secrets.",
+      "Describe a new 'spiritual-tech' product being hawked in the Forum, its absurd claims, and its sleek Latin marketing litter.",
+      "Create a scene where a traditional, low-tech augur (reading actual entrails) argues with a tech-priest augur (reading data-logs) about a state omen."
+    ],
+    "technical": [
+      "Design a 'Vox Umbra' device: its interface, its faux-spiritual outputs, and the hidden code that drives its 'insights'.",
+      "Map the network of a typical elite Roman domus: connected gods, climate control, security, entertainment, and their points of failure.",
+      "Outline the 'Fortuna Domestica' subscription service tiers and their predatory, anxiety-inducing add-ons.",
+      "Create a system for 'algorithmic doping' in chariot racing: how would data-analysis and hidden tech corrupt the ancient sport?"
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Petronius Arbiter",
+      "Franz Kafka",
+      "William Gibson",
+      "Mary Beard"
+    ]
+  },
+  "cover_prompt": "A weary, cynical Diagnostes in a stained linen tunic kneels on cracked travertine, his hand plunged into the glowing, translucent abdomen of a massive, intricate brass sacred chicken, its feathers etched with circuit patterns, as he extracts a shimmering data-ghost shaped like a crow, [the scene set in a cluttered, hybrid workshop-shrine where classical Roman frescoes of gods peel beside flickering holographic displays showing network topology maps and error logs], in the atmospheric style of a fusion between John Harris's epic, lonely scales and the intricate, melancholic machinery of Victo Ngai, [book cover framing, a centered and intimate composition viewed from a low, dramatic angle that emphasizes both the man's focused exhaustion and the chicken's monumental, sacred machinery], [cinematic chiaroscuro lighting with a stark contrast between the warm, dim oil-lamp glow of the shrine and the cold, actinic blue-white light emanating from the chicken's internal systems, color palette of burnt umber, oxidized brass, deep shadow, and electric cerulean], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}

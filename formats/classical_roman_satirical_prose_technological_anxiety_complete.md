@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The man in the toga was screaming at a potted fern. Not *at* it, precisely, but into the small, polished obsidian disc he held before its fronds, his face a contorted mask of senatorial outrage.
@@ -79,6 +81,8 @@ It was not a request. Cass looked at the man’s hand, then at his face. He saw 
 He shrugged the hand off, but nodded. “Lead on, then. Let’s go hear the pipes sing.”
 
 ---
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -191,6 +195,8 @@ Afer laughed, a short, sharp bark that echoed in the vault. “To the mountains?
 “No,” Cass said, turning to leave, Stolo a shadow at his heels. “I’m a ferret. And I’ve just caught the scent.”
 
 ---
+
+# Chapter 3
 
 ## CHAPTER 3
 

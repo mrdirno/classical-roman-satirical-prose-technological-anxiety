@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The man in the toga was screaming at a potted fern. Not *at* it, precisely, but into the small, polished obsidian disc he held before its fronds, his face a contorted mask of senatorial outrage.
+Marcus’s new stylus scratched across the wax tablet with a sound like a dying insect. He glared at the thing—this “improvement” promised to double his dictation speed. Instead, it had eaten three drafts of his panegyric to the Emperor and now whispered faint, metallic curses in a language he did not know.
+
 
 “I have consulted the augurs!” he bellowed. “The flight of birds was unfavorable! The sacred chickens, I tell you, the sacred chickens would not eat! And yet you persist in this… this *profane* verdancy! This unsanctioned photosynthesis!”
 
